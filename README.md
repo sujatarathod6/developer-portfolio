@@ -17,7 +17,8 @@ I use academic and personal projects to develop my skills in frontend developmen
 * 🔧 Exploring web technologies, REST APIs, databases, and application development.
 * 📂 Building a portfolio of software development and machine learning projects.
 * 🎯 Looking for entry-level opportunities in software and web development.
-
+* I am at the beginning of my software development journey, building my understanding of programming concepts and applying what I learn through hands-on projects. I am continuously improving my skills in frontend development, backend programming, databases, and API integration. I value understanding how things work, learning from errors, and gradually becoming more independent in solving technical problems.
+I am continuously learning and improving my programming skills through small practical projects.
 ---
 
 ## 🛠️ Technical Skills
@@ -85,10 +86,6 @@ I use academic and personal projects to develop my skills in frontend developmen
 ---
 
 ## 🚀 Projects
-
-### 1. MERN Quiz System
-
-**Technology Stack:** MongoDB, Express.js, React.js, Node.js
 
 ### 1. MERN Quiz System
 
