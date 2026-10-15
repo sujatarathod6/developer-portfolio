@@ -90,7 +90,28 @@ I use academic and personal projects to develop my skills in frontend developmen
 
 **Technology Stack:** MongoDB, Express.js, React.js, Node.js
 
-A web-based quiz application developed to support quiz management and assessment workflows.
+### 1. MERN Quiz System
+
+**Technology Stack:** MongoDB | Express.js | React.js | Node.js | REST APIs | Postman
+
+A full-stack quiz application developed to manage quiz questions and support online assessments.
+
+**Key Features**
+
+* **User Authentication:** Authentication functionality for accessing protected application features.
+* **Question Management:** Create, retrieve, update, and delete quiz questions through backend APIs.
+* **REST API Development:** Backend endpoints for authentication, question management, quizzes, results, and statistics.
+* **Database Integration:** MongoDB integration for application data.
+* **API Testing:** Postman for testing backend endpoints and validating API responses.
+
+**Technical Learning**
+
+* Developed and tested backend API endpoints.
+* Worked with MongoDB and server-side application logic.
+* Practiced debugging authentication and API validation issues.
+
+**Source Code:** Private repository; available upon request.
+
 
 **Project Focus**
 
